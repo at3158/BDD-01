@@ -1,0 +1,12 @@
+C:\PROJECTS\BDD-01\BDD-01\bin\Debug\WebTest1.webtest
+C:\PROJECTS\BDD-01\BDD-01\bin\Debug\BDD-01.dll.config
+C:\PROJECTS\BDD-01\BDD-01\bin\Debug\BDD-01.dll
+C:\PROJECTS\BDD-01\BDD-01\bin\Debug\BDD-01.pdb
+C:\PROJECTS\BDD-01\BDD-01\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\PROJECTS\BDD-01\BDD-01\bin\Debug\Microsoft.VisualStudio.QualityTools.WebTestFramework.dll
+C:\PROJECTS\BDD-01\BDD-01\bin\Debug\TechTalk.SpecFlow.dll
+C:\PROJECTS\BDD-01\BDD-01\bin\Debug\zh-Hant\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\PROJECTS\BDD-01\BDD-01\bin\Debug\zh-Hant\Microsoft.VisualStudio.QualityTools.WebTestFramework.resources.dll
+C:\PROJECTS\BDD-01\BDD-01\obj\Debug\BDD-01.csprojResolveAssemblyReference.cache
+C:\PROJECTS\BDD-01\BDD-01\obj\Debug\BDD-01.dll
+C:\PROJECTS\BDD-01\BDD-01\obj\Debug\BDD-01.pdb
